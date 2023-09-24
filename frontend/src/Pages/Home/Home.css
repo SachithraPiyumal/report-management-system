@@ -1,0 +1,22 @@
+.MainHome{
+    margin: 50px;
+}
+.UserBranch{
+    margin-bottom: 50px;
+}
+.middleContainer{
+    margin-bottom: 50px;
+}
+.reportTableName{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: blue;
+}
+.userDetails{
+    font-size: 20px;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
